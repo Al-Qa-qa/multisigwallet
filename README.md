@@ -48,7 +48,6 @@ We used blockchain technology, the ethereum network, and smart contract developm
 
 The smart contract is written in [solidity](https://soliditylang.org/), and we used JS/TS to test and interact with the contract.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -60,7 +59,6 @@ The smart contract is built using hardhat framework, ethersjs and some other pac
 * [![Hardhat][Hardhat]][Hardhat-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -96,7 +94,6 @@ Below is an example of how to start interacting with the smart contract locally.
    ```
 3. Code installed successfully, you can start testing it.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -109,14 +106,12 @@ You can interact with the smart contract on the local network now.
 - `npm run deploy` to deploy the contract on the hardhat network
 - `npm run test` to run the unit testing of the contract
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 This project is under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -126,7 +121,6 @@ Al-Qa'qa' - [@Al_Qa_qa](https://twitter.com/Al_Qa_qa) - alqaqa.fighter@gmail.com
 
 Project Link: [https://github.com/Al-Qa-qa/multisigwallet](https://github.com/Al-Qa-qa/multisigwallet)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -140,7 +134,6 @@ We would like to apologize if we used a free package or service and forgot to me
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [solhint](https://github.com/protofire/solhint)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
